@@ -30,7 +30,7 @@ _Connecting AI Can be Easily Done_
 - [Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney) - Golang实现了飞书机器人对接Midjourney，支持文生图，图生文，以及图片变体  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Midjourney)
 - [FeishuStablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现了飞书机器人与Stablediffusion相结合，支持文生图，图生图，支持中英双语  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
 - [Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin) - Golang实现了飞书机器人与文心一言接口集成，支持语音交流，上下文保留，富文本卡片回复  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Wenxin)
-- [lanuage-talk-listen](https://github.com/yingshang/lanuage-talk-listen） - python实现 飞书口语、听力训练伴侣 ![GitHub Repo stars](https://img.shields.io/github/stars/yingshang/lanuage-talk-listen)
+- [lanuage-talk-listen](https://github.com/yingshang/lanuage-talk-listen) - python实现 飞书口语、听力训练伴侣 ![GitHub Repo stars](https://img.shields.io/github/stars/yingshang/lanuage-talk-listen)
 
 
 **[⬆ back to top](#contents)**
