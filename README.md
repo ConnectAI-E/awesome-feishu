@@ -12,7 +12,8 @@
 - [SDK](#SDK)
 - [AI集成](#AI集成)
 - [多维表格](#多维表格)
-
+- [云文档](#云文档)
+- [浏览器插件](#浏览器插件)
 ## SDK
 _A good tool is a good master_
 
@@ -51,6 +52,9 @@ _Experience the creative sense like flying_
 - [feishu-backup](https://github.com/dicarne/feishu-backup) - 备份飞书云文档，导入为Markdown格式 ![GitHub Repo stars](https://img.shields.io/github/stars/dicarne/feishu-backup)
 - [feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown ![GitHub Repo stars](https://img.shields.io/github/stars/Wsine/feishu2md)
 
+## 浏览器插件
+_Candy for Developer_
 
+- [FeishuAppHelper](https://github.com/ConnectAI-E/FeishuAppHelper) - 在飞书应用市场上一键部署企业自建应用 (即将开源)
 
 **[⬆ back to top](#contents)**
