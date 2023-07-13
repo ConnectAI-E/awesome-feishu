@@ -37,13 +37,18 @@ _Connecting AI Can be Easily Done_
 
 
 
-
 ## 多维表格
 _Base is more than just a super table._
 
 - [draw-lark-sheet](https://github.com/chyroc/draw-lark-sheet) - 利用多维表格的格子做像素画 ![GitHub Repo stars](https://img.shields.io/github/stars/chyroc/draw-lark-sheet)
 - [bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 将多维表格封装成MySql,用sql的语法操作表格 ![GitHub Repo stars](https://img.shields.io/github/stars/luw2007/bitable-mysql-driver)
-- [easy-base](https://github.com/luw2007/bitable-mysql-driver) - 利用OpenAI将语音和票据便捷录入多维表格 ![GitHub Repo stars](https://img.shields.io/github/stars/luw2007/bitable-mysql-driver)
+- [easy-base](https://github.com/connectAI-E/easy-base) - 利用OpenAI将语音和票据便捷录入多维表格 (即将开源)
+
+## 云文档
+_Experience the creative sense like flying_
+
+- [feishu-backup](https://github.com/dicarne/feishu-backup) - 备份飞书云文档，导入为Markdown格式 ![GitHub Repo stars](https://img.shields.io/github/stars/dicarne/feishu-backup)
+- [feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown ![GitHub Repo stars](https://img.shields.io/github/stars/Wsine/feishu2md)
 
 
 
