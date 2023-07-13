@@ -27,6 +27,7 @@ _Connecting AI Can be Easily Done_
 _Base is A Super Table_
 
 - [draw-lark-sheet](https://github.com/chyroc/draw-lark-sheet) - 利用多维表格的格子做像素画 ![GitHub Repo stars](https://img.shields.io/github/stars/chyroc/draw-lark-sheet)
+- [bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 将多维表格封装成MySql,用sql的语法操作表格 ![GitHub Repo stars](https://img.shields.io/github/stars/luw2007/bitable-mysql-driver)
 
 
 
