@@ -16,10 +16,10 @@
 ## AI集成
 _Connecting AI Can be Easily Done_
 
-- [OpenAI-Feishu](https://github.com/ConnectAI-E/Feishu-OpenAI) - Golang实现的飞书机器与OpenAI接口集成，支持GPT4和打字机效果  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
-- [Midjourney-Feishu](https://github.com/ConnectAI-E/Feishu-Midjourney) - Golang实现飞书机器人与Midjourney结合，支持文生图，图生文  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Midjourney)
-- [Stablediffusion-Feishu](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现飞书机器人与Stablediffusion结合，支持文生图，图生图  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
-- [Wenxin-Feishu](https://github.com/ConnectAI-E/Feishu-Wenxin) - Golang实现飞书机器人与文心一言接口集成，支持语音交流  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Wenxin)
+- [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Golang实现的飞书机器与OpenAI接口集成，支持GPT4和打字机效果  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
+- [Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney) - Golang实现了飞书机器人对接Midjourney，支持文生图，图生文，以及图片变体  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Midjourney)
+- [FeishuStablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现了飞书机器人与Stablediffusion相结合，支持文生图，图生图，支持中英双语  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
+- [Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin) - Golang实现了飞书机器人与文心一言接口集成，支持语音交流，上下文保留，富文本卡片回复  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Wenxin)
 
 
 **[⬆ back to top](#contents)**
