@@ -16,6 +16,9 @@
 _Connecting AI Can be Easily Done_
 
 - [OpenAI-Feishu](https://github.com/ConnectAI-E/Feishu-OpenAI) - Golang实现的飞书机器与OpenAI接口集成，支持GPT4和打字机效果  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
+- [Midjourney-Feishu](https://github.com/ConnectAI-E/Feishu-Midjourney) - Golang实现飞书机器人与Midjourney结合，支持文生图，图生文  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Midjourney)
+- [Stablediffusion-Feishu](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现飞书机器人与Stablediffusion结合，支持文生图，图生图  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
+- [Wenxin-Feishu](https://github.com/ConnectAI-E/Feishu-Wenxin) - Golang实现飞书机器人与文心一言接口集成，支持语音交流  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Wenxin)
 
 
 **[⬆ back to top](#contents)**
