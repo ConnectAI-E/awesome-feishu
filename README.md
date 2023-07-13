@@ -13,9 +13,9 @@
 - [AI集成](#AI集成)
 
 ## AI集成
-_Connect AI Is Easily Done_
+_Connecting AI Can be Easily Done_
 
-- [OpenAI-Feishu](https://github.com/ConnectAI-E/Feishu-OpenAI) 🎒飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
+- [OpenAI-Feishu](https://github.com/ConnectAI-E/Feishu-OpenAI) - Golang实现的飞书机器与OpenAI接口集成，支持GPT4和打字机效果  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
 
 
 **[⬆ back to top](#contents)**
@@ -24,5 +24,10 @@ _Connect AI Is Easily Done_
 
 
 ## 多维表格
+_Base is A Super Table_
+
+- [draw-lark-sheet](https://github.com/chyroc/draw-lark-sheet) - 利用多维表格的格子做像素画 ![GitHub Repo stars](https://img.shields.io/github/stars/chyroc/draw-lark-sheet)
+
+
 
 **[⬆ back to top](#contents)**
