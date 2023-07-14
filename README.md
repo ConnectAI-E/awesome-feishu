@@ -31,7 +31,7 @@ _Connecting AI Can be Easily Done_
 
 - [Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - Golang实现的飞书OpenAI机器人，支持GPT4、图片生成、语音识别和打字机效果  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-OpenAI)
 - [Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney) - Golang实现的飞书Midjourney机器人，支持文生图，图生文，以及图片变体  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Midjourney)
-- [Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现的飞书Stablediffusion机器人，支持文生图，图生图，支持中英双语  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
+- [Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion) - Python实现飞书Stablediffusion机器人，支持文生图，图生图，中英双语  ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Stablediffusion)
 - [Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin) - Golang实现的飞书机器人文心一言机器人 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-Wenxin)
 - [lanuage-talk-listen](https://github.com/yingshang/lanuage-talk-listen) - python实现 飞书口语、听力训练伴侣 ![GitHub Repo stars](https://img.shields.io/github/stars/yingshang/lanuage-talk-listen)
 - [Feishu-TLDR](https://github.com/ConnectAI-E/Feishu-TLDR) - 太长不读机器人，一键总结群聊消息 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Feishu-TLDR)
