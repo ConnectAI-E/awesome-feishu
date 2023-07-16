@@ -46,7 +46,7 @@ _Base is more than just a super table._
 
 - [draw-lark-sheet](https://github.com/chyroc/draw-lark-sheet) - 利用多维表格的格子做像素画 ![GitHub Repo stars](https://img.shields.io/github/stars/chyroc/draw-lark-sheet)
 - [bitable-mysql-driver](https://github.com/luw2007/bitable-mysql-driver) - 将多维表格封装成MySql,用sql的语法操作表格 ![GitHub Repo stars](https://img.shields.io/github/stars/luw2007/bitable-mysql-driver)
-- [easy-base](https://github.com/ConnectAI-E/Base-EasyWrite) - 利用OpenAI将语音和票据便捷录入多维表格 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Base-EasyWrite)
+- [Base-EasyWrite](https://github.com/ConnectAI-E/Base-EasyWrite) - 利用OpenAI将语音和票据便捷录入多维表格 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Base-EasyWrite)
 - [Awesome-BaseScript](https://github.com/ConnectAI-E/Awesome-BaseScript) - 飞书多维表格扩展脚本项目集 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnectAI-E/Awesome-BaseScript)
   
 **[⬆ back to top](#contents)**
